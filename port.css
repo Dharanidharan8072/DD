@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: #d6f5f5;
+}
+header{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
+li{
+    display: inline;
+    padding: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: burlywood;
+}
+img{
+    height: 230px;
+    width: 230px;
+    border-radius: 50%;
+}
+#PortFolio{
+    background-color: 	#00ffbf;
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
